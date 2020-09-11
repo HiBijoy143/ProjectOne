@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+
+    <string-array name="socialAppName">
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Snapchat</item>
+        <item>WhatsApp</item>
+        <item>Instagram</item>
+        <item>Tinder</item>
+        <item>Telegram</item>
+    </string-array>
+    <string-array name="inventor">
+        <item>Mark Elliot Zuckerberg</item>
+        <item>Jack Dorsey</item>
+        <item>Evan Thomas Spiegel</item>
+        <item>Brian Acton</item>
+        <item>Kevin Systrom</item>
+        <item>Sean Rad</item>
+        <item>Samuel Morse</item>
+    </string-array>
+    <string name="facebook">
+        Facebook, Inc. Facebook (sometimes shortened to FB) is a social networking service and website started in February 2004.
+            It was built by Mark Zuckerberg. ... Users may make a personal profile, add other users as friends, and send messages.
+            Facebook users must register before using the site.
+        Facebook, Inc. Facebook (sometimes shortened to FB) is a social networking service and website started in February 2004.
+            It was built by Mark Zuckerberg. ... Users may make a personal profile, add other users as friends, and send messages.
+            Facebook users must register before using the site.
+        Facebook, Inc. Facebook (sometimes shortened to FB) is a social networking service and website started in February 2004.
+            It was built by Mark Zuckerberg. ... Users may make a personal profile, add other users as friends, and send messages.
+            Facebook users must register before using the site.
+    </string>
+    <string name="twitter">
+        Twitter is a microblogging system that allows you to send and receive short posts called tweets.
+            Tweets can be up to 140 characters long and can include links to relevant websites and resources. Twitter users follow other users.
+            If you follow someone you can see their tweets in your twitter timeline.
+        Twitter is a microblogging system that allows you to send and receive short posts called tweets.
+            Tweets can be up to 140 characters long and can include links to relevant websites and resources. Twitter users follow other users.
+            If you follow someone you can see their tweets in your twitter timeline.
+        Twitter is a microblogging system that allows you to send and receive short posts called tweets.
+            Tweets can be up to 140 characters long and can include links to relevant websites and resources. Twitter users follow other users.
+            If you follow someone you can see their tweets in your twitter timeline.
+    </string>
+    <string name="snapchat">
+        Snapchat was initially focused on private, person-to-person photo sharing,
+            but you can now use it for a range of different tasks, including sending short videos,
+            live video chatting, messaging, creating caricature-like Bitmoji avatars, and sharing a chronological
+            story thats broadcasted to all your followers.
+        Snapchat was initially focused on private, person-to-person photo sharing,
+            but you can now use it for a range of different tasks, including sending short videos,
+            live video chatting, messaging, creating caricature-like Bitmoji avatars, and sharing a chronological
+            story thats broadcasted to all your followers.
+        Snapchat was initially focused on private, person-to-person photo sharing,
+            but you can now use it for a range of different tasks, including sending short videos,
+            live video chatting, messaging, creating caricature-like Bitmoji avatars, and sharing a chronological
+            story thats broadcasted to all your followers.
+    </string>
+    <string name="whatsapp">
+        WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform messaging and
+            Voice over IP (VoIP) service owned by Facebook, Inc. It allows users to send text messages
+            and voice messages, make voice and video calls, and share images, documents,
+            user locations, and other media.
+        WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform messaging and
+            Voice over IP (VoIP) service owned by Facebook, Inc. It allows users to send text messages
+            and voice messages, make voice and video calls, and share images, documents,
+            user locations, and other media.
+        WhatsApp Messenger, or simply WhatsApp, is an American freeware, cross-platform messaging and
+            Voice over IP (VoIP) service owned by Facebook, Inc. It allows users to send text messages
+            and voice messages, make voice and video calls, and share images, documents,
+            user locations, and other media.
+    </string>
+    <string name="telegram">
+
+        Telegram is a cloud-based instant messaging, videotelephony and voice over IP service with end-to-end encryption
+            for secret chat only.Telegram client apps are available for Android, iOS, Windows Phone, Windows,
+            macOS and GNU/Linux and originated in Russia in 2013.
+        Telegram is a cloud-based instant messaging, videotelephony and voice over IP service with end-to-end encryption
+            for secret chat only.Telegram client apps are available for Android, iOS, Windows Phone, Windows,
+            macOS and GNU/Linux and originated in Russia in 2013.
+        Telegram is a cloud-based instant messaging, videotelephony and voice over IP service with end-to-end encryption
+            for secret chat only.Telegram client apps are available for Android, iOS, Windows Phone, Windows,
+            macOS and GNU/Linux and originated in Russia in 2013.
+    </string>
+    <string name="instagram">
+        Instagram (commonly abbreviated to IG or Insta) is an American photo and video sharing social networking service
+            owned by Facebook, created by Kevin Systrom and Mike Krieger and originally
+            launched on iOS in October 2010. ... Users can like photos and follow other users to add their content to a feed.
+        Instagram (commonly abbreviated to IG or Insta) is an American photo and video sharing social networking service
+            owned by Facebook, created by Kevin Systrom and Mike Krieger and originally
+            launched on iOS in October 2010. ... Users can like photos and follow other users to add their content to a feed.
+        Instagram (commonly abbreviated to IG or Insta) is an American photo and video sharing social networking service
+            owned by Facebook, created by Kevin Systrom and Mike Krieger and originally
+            launched on iOS in October 2010. ... Users can like photos and follow other users to add their content to a feed.
+    </string>
+    <string name="tinder">
+        Tinder Inc. Tinder is a geosocial networking and online dating application that
+        allows users to anonymously swipe to like or dislike other profiles based on their photos,
+        a small bio, and common interests. Once two users have "matched", they can exchange messages.
+        Tinder Inc. Tinder is a geosocial networking and online dating application that
+        allows users to anonymously swipe to like or dislike other profiles based on their photos,
+        a small bio, and common interests. Once two users have "matched", they can exchange messages.
+        Tinder Inc. Tinder is a geosocial networking and online dating application that
+        allows users to anonymously swipe to like or dislike other profiles based on their photos,
+        a small bio, and common interests. Once two users have "matched", they can exchange messages.
+    </string>
+
+</resources>
